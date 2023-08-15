@@ -1,6 +1,6 @@
 {
-    "name": "portospire/suitecrmclient",
-    "description": "A free client library for use with SuiteCRM to abstract the various API usage to enable easier integrations. Provided by PortoSpire",
+    "name": "bklein01/suitecrmclient",
+    "description": "This is a fork of a free client library for use with SuiteCRM to abstract the various API usage to enable easier integrations. Provided by PortoSpire",
     "license": "LGPL-3.0-or-later",
     "keywords": [
         "portospire",
@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.0",
+        "php": "8.1.*",
         "guzzlehttp/guzzle": "^6.3"
     },
     "autoload": {
